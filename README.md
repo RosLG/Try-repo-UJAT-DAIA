@@ -1,2 +1,2 @@
-# Try-repo-UJAT-DAIA
+# Repositorio virtual para difusión de la ciencia
 Repositorio difusión cientifica
